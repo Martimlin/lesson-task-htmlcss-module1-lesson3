@@ -1,0 +1,30 @@
+header {
+    background-color: black;
+    color: white;
+}
+
+nav a{
+    color: white;
+}
+
+.review{
+background-color: grey;
+}
+
+.guitar_list div{
+    background-color: lightgray;
+}
+
+.guitar_list a{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.guitar_list .sale {
+    background-color: green;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
